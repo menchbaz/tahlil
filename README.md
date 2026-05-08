@@ -1,15 +1,11 @@
 # 🎙️ آرشیو صوتی تحلیل
 
-## 🎧 مراد وایسی
+## 🎧 امید دانا
 
-**audio_867.ogg** — 2026-05-08 13:58 UTC
+### 🕒 2026-05-08 14:31
+<audio controls src="https://raw.githubusercontent.com/menchbaz/tahlil/main/omid/omid_71082.mp3"></audio>
 
-
-  
-  مرورگر شما از پخش صوت پشتیبانی نمی‌کند.
-
-
-[📥 دانلود](https://raw.githubusercontent.com/menchbaz/tahlil/main/morad/audio_867.ogg)
+[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/omid/omid_71082.mp3)
 
 ---
 
