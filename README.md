@@ -1,18 +1,32 @@
-# 🎙️ آرشیو صوتی تحلیل
+# 🎙️ لایوهای روزمره
 
-## 🎧 امید دانا
-
-### 🕒 2026-05-08 14:31
-<audio controls src="https://raw.githubusercontent.com/menchbaz/tahlil/main/omid/omid_71081.mp3"></audio>
-
-[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/omid/omid_71081.mp3)
+> این صفحه به صورت خودکار آپدیت می‌شود و فقط ۱۰ لایو آخر را نمایش می‌دهد.
 
 ---
 
-### 🕒 2026-05-08 14:31
-<audio controls src="https://raw.githubusercontent.com/menchbaz/tahlil/main/omid/omid_71082.mp3"></audio>
+### 🎧 💥ایران در جنگ و فشار
+<audio src="https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_23.mp3" controls preload="none"></audio>
 
-[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/omid/omid_71082.mp3)
+[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_23.mp3)
 
 ---
+### 🎧 🎧نسخه صوتی اخبار شبانگاهی | جمعه ۱۸ اردیبهشت
+<audio src="https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_22.mp3" controls preload="none"></audio>
 
+[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_22.mp3)
+
+---
+### 🎧 لایو مراد ویسی ___ بروزرسانی ۱۸/٠۲/۱۴٠۵
+<audio src="https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_21.mp3" controls preload="none"></audio>
+
+[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_21.mp3)
+
+---
+### 🎧 ✅ لایو امید دانا 
+بامداد جمعه ۱۸ اردیبهشت 
+امارات جزیره قشم را بمباران مرد
+<audio src="https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_20.mp3" controls preload="none"></audio>
+
+[📥 دانلود مستقیم](https://raw.githubusercontent.com/menchbaz/tahlil/main/archive/live_20.mp3)
+
+---
