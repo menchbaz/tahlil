@@ -4,6 +4,12 @@
 
 ---
 
+### 🎙️ دومین شب درگیریهای سپاه و سنتکام در تنگه هرمز
+<audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_30.mp3" controls preload="none"></audio>
+
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_30.mp3)
+
+---
 ### 🎬 گفت‌وگو با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_29.mp3" controls preload="none"></audio>
 
