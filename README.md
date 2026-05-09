@@ -1,24 +1,33 @@
 # 🎙️ لایوهای روزمره
 
-> این صفحه به صورت خودکار آپدیت می‌شود و فقط ۱۰ لایو آخر را نمایش می‌دهد.
+> این صفحه به صورت خودکار آپدیت می‌شود و فقط ۱۰ مورد آخر را نمایش می‌دهد.
 
 ---
 
-### 🎧 علی صمدزاده  تحلیلگر رژیم دنیا بویژه اروپا را بابت مرگ خامنه ای تهدید میکند
+### 🎬 روزنامه نیویورک‌ پست به نقل از منابع آگاه گزارش داد جنگ، موقعیت سپاه پاسداران را در ایران تقویت کرده و به جناح‌های تندرو انگیزه طولانی کردن درگیری را داده است.
+
+گفت‌وگو با محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+<video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp4" controls width="100%" preload="metadata"></video>
+
+📥 [دانلود نسخه ویدیویی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp4) | 🎧 [دانلود نسخه صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp3)
+
+---
+### 🎬 live_26.mp3
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3" controls preload="none"></audio>
 
-[📥 دانلود مستقیم](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3)
+📥 [دانلود مستقیم فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3)
 
 ---
-### 🎧 امید_توقیف دو نفتکش رژیم_تخلیه نفت در خلیج فارس_محاصره دریایی باعث میشه رژیم سقوط کند!
+### 🎬 live_25.mp3
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3" controls preload="none"></audio>
 
-[📥 دانلود مستقیم](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3)
+📥 [دانلود مستقیم فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3)
 
 ---
-### 🎧 نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: درگیری در تنگه هرمز همزمان با انتظار واشینگتن برای پاسخ تهران
+### 🎬 live_24.mp3
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_24.mp3" controls preload="none"></audio>
 
-[📥 دانلود مستقیم](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_24.mp3)
+📥 [دانلود مستقیم فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_24.mp3)
 
 ---
