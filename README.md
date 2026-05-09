@@ -4,6 +4,12 @@
 
 ---
 
+### 🎬 گفت‌وگو با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال
+<audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_29.mp3" controls preload="none"></audio>
+
+📥 [دانلود ویدیو](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_29.mp4) | [دانلود صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_29.mp3)
+
+---
 ### 🎬 ارزیابی لیلا مروتی، تحلیل‌گر سیاسی
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_28.mp3" controls preload="none"></audio>
 
