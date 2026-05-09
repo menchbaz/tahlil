@@ -4,6 +4,12 @@
 
 ---
 
+### 🎧 علی صمدزاده  تحلیلگر رژیم دنیا بویژه اروپا را بابت مرگ خامنه ای تهدید میکند
+<audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3" controls preload="none"></audio>
+
+[📥 دانلود مستقیم](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3)
+
+---
 ### 🎧 امید_توقیف دو نفتکش رژیم_تخلیه نفت در خلیج فارس_محاصره دریایی باعث میشه رژیم سقوط کند!
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3" controls preload="none"></audio>
 
