@@ -1,33 +1,36 @@
 # 🎙️ لایوهای روزمره
 
-> این صفحه به صورت خودکار آپدیت می‌شود و فقط ۱۰ مورد آخر را نمایش می‌دهد.
+> این صفحه خودکار آپدیت می‌شود و فقط ۱۰ مورد آخر را نشان می‌دهد.
 
 ---
 
-### 🎬 روزنامه نیویورک‌ پست به نقل از منابع آگاه گزارش داد جنگ، موقعیت سپاه پاسداران را در ایران تقویت کرده و به جناح‌های تندرو انگیزه طولانی کردن درگیری را داده است.
+### 🎬 ارزیابی لیلا مروتی، تحلیل‌گر سیاسی
+<audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_28.mp3" controls preload="none"></audio>
 
-گفت‌وگو با محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال
-@iranintltv
-<video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp4" controls width="100%" preload="metadata"></video>
-
-📥 [دانلود نسخه ویدیویی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp4) | 🎧 [دانلود نسخه صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp3)
+📥 [دانلود ویدیو](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_28.mp4) | [دانلود صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_28.mp3)
 
 ---
-### 🎬 live_26.mp3
+### 🎬 live_27.mp3
+<audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp3" controls preload="none"></audio>
+
+📥 [دانلود ویدیو](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp4) | [دانلود صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_27.mp3)
+
+---
+### 🎙️ live_26.mp3
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3" controls preload="none"></audio>
 
-📥 [دانلود مستقیم فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3)
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_26.mp3)
 
 ---
-### 🎬 live_25.mp3
+### 🎙️ live_25.mp3
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3" controls preload="none"></audio>
 
-📥 [دانلود مستقیم فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3)
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_25.mp3)
 
 ---
-### 🎬 live_24.mp3
+### 🎙️ live_24.mp3
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_24.mp3" controls preload="none"></audio>
 
-📥 [دانلود مستقیم فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_24.mp3)
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_24.mp3)
 
 ---
