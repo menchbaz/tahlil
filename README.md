@@ -4,6 +4,12 @@
 
 ---
 
+### 🎙️ omid___may-10
+<audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_31.mp3" controls preload="none"></audio>
+
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_31.mp3)
+
+---
 ### 🎙️ دومین شب درگیریهای سپاه و سنتکام در تنگه هرمز
 <audio src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_30.mp3" controls preload="none"></audio>
 
