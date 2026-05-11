@@ -4,6 +4,13 @@
 
 ---
 
+### 🎬 تور
+
+<video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_54.mp4" controls="controls" style="max-width: 100%;"></video>
+
+📥 [دانلود ویدیو](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_54.mp4) | [دانلود صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_54.mp3)
+
+---
 ### 🎙️ morad
 
 <video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_53.mp3" controls="controls" style="max-width: 100%;"></video>
