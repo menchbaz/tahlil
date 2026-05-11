@@ -4,6 +4,11 @@
 
 ---
 
+### 📁 MAX apk
+
+📥 [دانلود فایل با پسوند .bin](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/doc_49.bin)
+
+---
 ### 🎙️ امید دانا | commit دوشنبه
 
 <video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_45.mp3" controls="controls" style="max-width: 100%;"></video>
