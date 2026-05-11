@@ -4,6 +4,13 @@
 
 ---
 
+### 🖼️ 🚨 شیراز الان__احتمالا دارن مهمات عمل نکرده را خنثی میکنند
+
+<img src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/img_51.jpg" style="max-width: 100%; border-radius: 8px;">
+
+📥 [دانلود تصویر](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/img_51.jpg)
+
+---
 ### 📦 MAX apk
 
 📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_50.zip)
