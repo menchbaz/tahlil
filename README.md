@@ -1,12 +1,12 @@
-# 🎙️ آرشیو جامع رسانه
+# 🎙️ آرشیو جامع (نسخه هوشمند)
 
 > این صفحه خودکار آپدیت می‌شود.
 
 ---
 
-### 📁 MAX apk
+### 📦 MAX apk
 
-📥 [دانلود فایل با پسوند .bin](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/doc_49.bin)
+📥 [دانلود فایل زیپ شده (ZIP)](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/archived_50.zip)
 
 ---
 ### 🎙️ امید دانا | commit دوشنبه
