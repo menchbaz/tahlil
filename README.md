@@ -4,6 +4,13 @@
 
 ---
 
+### 🎙️ **🔈**** حجم فشرده_بازداشت فرماندهان دریایی سپاه در کویت_ترامپ با ژنرالها برای حمله بزرگ بعد از سفر چین هماهنگ شد**
+
+<video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_60.mp3" controls="controls" style="max-width: 100%;"></video>
+
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_60.mp3)
+
+---
 ### 🎬 چین
 
 <video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_59.mp4" controls="controls" style="max-width: 100%;"></video>
