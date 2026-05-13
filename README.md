@@ -4,6 +4,13 @@
 
 ---
 
+### 🎙️ تحلیل بیت‌کوین و توصیه‌هایی برای دوام آوردن در شرایط بلاتکلیفی
+
+<video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_58.mp3" controls="controls" style="max-width: 100%;"></video>
+
+📥 [دانلود فایل صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_58.mp3)
+
+---
 ### 🎙️ nachir1
 
 <video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_57.mp3" controls="controls" style="max-width: 100%;"></video>
