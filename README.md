@@ -4,6 +4,13 @@
 
 ---
 
+### 🎬 چین
+
+<video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_59.mp4" controls="controls" style="max-width: 100%;"></video>
+
+📥 [دانلود ویدیو](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_59.mp4) | [دانلود صوتی](https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_59.mp3)
+
+---
 ### 🎙️ تحلیل بیت‌کوین و توصیه‌هایی برای دوام آوردن در شرایط بلاتکلیفی
 
 <video src="https://raw.githubusercontent.com/azadnetwork/tahlil/main/archive/live_58.mp3" controls="controls" style="max-width: 100%;"></video>
